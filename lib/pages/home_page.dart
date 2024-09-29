@@ -205,7 +205,7 @@ class _HomePageState extends State<HomePage> {
                     number: 0,
                   ),
                     Chats(
-                    name: 'John Doee',
+                    name: 'John Doe',
                     message: 'How far',
                     number: 2,
                   ),
